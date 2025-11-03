@@ -1,3 +1,5 @@
+TEST
+
 <p style="text-align: center;">
  <picture>
  <source media="(prefers-color-scheme: dark)" srcset="./images/nx-dark.svg">
